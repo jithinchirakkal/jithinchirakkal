@@ -1,3 +1,3 @@
 # portfolio
 
-https://jithinchirakkal.github.io/jithinchirakkal/
+https://jithinchirakkal.github.io/
